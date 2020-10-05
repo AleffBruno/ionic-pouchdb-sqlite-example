@@ -1,20 +1,20 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
+<ion-header>
+  <ion-button (click)="addEmployee()">
+    <ion-icon name="add"></ion-icon>
+  </ion-button>
+
+  <ion-button (click)="read()">
+    read
+  </ion-button>
+
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content padding>
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+    <ion-list>
+        <ion-item *ngFor="let emp of employees" (click)="showDetails(employee)">
+          <div>{{ emp.firstName }} {{emp.lastName}}</div>
+        </ion-item>
+      </ion-list>
+
 </ion-content>

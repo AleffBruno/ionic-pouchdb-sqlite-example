@@ -1,0 +1,15 @@
+https://www.google.com/search?rlz=1C1GCEU_pt-BRBR884BR884&ei=aJpeX_20GeHB5OUPobqVqAE&q=punch+db+ionic&oq=punch+db+ionic&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAE6BAgAEEc6BggAEBYQHlCYJVi0NGC0NmgAcAF4AIABxAKIAeQGkgEFMi0xLjKYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwj9iM-8lOfrAhXhILkGHSFdBRUQ4dUDCA0&uact=5
+
+https://www.techiediaries.com/ionic-sqlite-pouchdb/
+
+https://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-your-ionic-app/
+
+https://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/
+
+https://pouchdb.com/adapters.html
+
+https://www.youtube.com/watch?v=7VKlwHKLGDA
+
+https://www.youtube.com/results?search_query=pouchdb+tutorial
+
+https://masteringionic.com/blog/archive/tag/pouchdb
